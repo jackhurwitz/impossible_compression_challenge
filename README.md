@@ -1,3 +1,8 @@
+## Edit: The 1 GB file
+Here is the Google Drive link to a 1GB version of this data, as requested: https://drive.google.com/file/d/1jjFb55mbYBgqyPtDPs0K1zfMg0XN03fc/view?usp=sharing
+
+Same challenge, losslessly compress the 1GB file **by a single byte** or more, and you win. Same submission rules as below. SHA256 for the 1GB file is included.
+
 # The Challenge
 
 - Losslessly compress `data.bin` such that the combined size of your compressed output and decompressor script is **at least 1 byte smaller** than the original file (1 MiB). This corresponds to a compression ratio of approximately 1.00000095 or better.
